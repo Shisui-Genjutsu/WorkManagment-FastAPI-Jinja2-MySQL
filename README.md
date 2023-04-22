@@ -1,8 +1,8 @@
-<h1 align="center">School Web Application</h1>
+<h1 align="center">Work Managment Application</h1>
 <p align="center">
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT LicenSe"></a>
-<a href="[LICENSE](https://github.com/Shisui-Genjutsu/SchoolWebApp-Reactjs-FastAPI-MySQL)"><img src="https://img.shields.io/github/repo-size/Shisui-Genjutsu/SchoolWebApp-Reactjs-FastAPI-MySQL" alt="MIT LicenSe"></a>
-<a href="[LICENSE](https://github.com/Shisui-Genjutsu/SchoolWebApp-Reactjs-FastAPI-MySQL)"><img src="https://img.shields.io/github/directory-file-count/Shisui-Genjutsu/SchoolWebApp-Reactjs-FastAPI-MySQL" alt="MIT LicenSe"></a>
+<a href="[LICENSE](https://github.com/Shisui-Genjutsu/WorkManagment-FastAPI-Jinja2-MySQL)"><img src="https://img.shields.io/github/repo-size/Shisui-Genjutsu/WorkManagment-FastAPI-Jinja2-MySQL" alt="MIT LicenSe"></a>
+<a href="[LICENSE](https://github.com/Shisui-Genjutsu/WorkManagment-FastAPI-Jinja2-MySQL)"><img src="https://img.shields.io/github/directory-file-count/Shisui-Genjutsu/WorkManagment-FastAPI-Jinja2-MySQL" alt="MIT LicenSe"></a>
 </p>
 
 <h3>#Demo Work Screenshots:</h3>
